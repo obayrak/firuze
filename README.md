@@ -1,6 +1,6 @@
 # Firuze
 
-**A nuclear-reaction workbench that runs in your browser.**
+**A nuclear-reaction code that runs in your browser.**
 
 *Author: Orhan Bayrak*  ·  Licence: [GPL-3.0](LICENSE)
 
