@@ -73,6 +73,11 @@ If you use Firuze in teaching or research, please cite this repository:
 O. Bayrak, Firuze: a browser-based nuclear-reaction code (2026),
 https://github.com/obayrak/firuze
 ```
+## References
+
+- **Fresco**: Ian Thompson, Coupled Reaction Channels Calculations, https://www.fresco.org.uk/
+- **xfresco**: Antonio M. Moro, graphical front-end for the Coupled Channels computer code fresco, https://personal.us.es/moro/xfresco/index.html 
+
 
 ## Licence
 
