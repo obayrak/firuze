@@ -75,7 +75,7 @@ https://github.com/obayrak/firuze
 ```
 ## References
 
-- **Fresco**: Ian Thompson, Coupled Reaction Channels Calculations, https://www.fresco.org.uk/
+- **Fresco**: Ian Thompson, Coupled Reaction Channels Calculations, https://www.fresco.org.uk/ ; https://github.com/I-Thompson/fresco
 - **xfresco**: Antonio M. Moro, graphical front-end for the Coupled Channels computer code fresco, https://personal.us.es/moro/xfresco/index.html 
 
 
