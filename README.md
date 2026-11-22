@@ -70,7 +70,7 @@ Firuze is an educational and research tool. Each Theory section lists what is ap
 If you use Firuze in teaching or research, please cite this repository:
 
 ```
-O. Bayrak, Firuze: a browser-based nuclear-reaction workbench (2026),
+O. Bayrak, Firuze: a browser-based nuclear-reaction code (2026),
 https://github.com/obayrak/firuze
 ```
 
